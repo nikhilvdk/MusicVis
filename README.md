@@ -1,6 +1,6 @@
 # MusicVis
 
-Check me out: <https://nikhilvdk.github.io/MusicVis/
+Check me out: https://nikhilvdk.github.io/MusicVis/
 
 ## Overview/Explanation
 
